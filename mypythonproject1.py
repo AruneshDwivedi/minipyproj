@@ -1,3 +1,4 @@
+#Based on data provided by user this project is used to calculate time remaining to complete a particular task 
 from datetime import datetime
 
 data =input("please enter your goal and deadline date\n")
